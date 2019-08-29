@@ -2,7 +2,7 @@
 
 This is a basic Arcade Game project written in JavaScript. You are the small cartoon character at the bottom of the game canva. Your goal is to move the character to the riverside (the blue boxes) without touching any bug in the journey.
 
-The live Demo is [HERE]()
+The live Demo is [HERE](https://peterhychan.github.io/arcade_game/)
 
 ## Table of Contents
 
